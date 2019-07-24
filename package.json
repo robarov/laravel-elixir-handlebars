@@ -1,0 +1,26 @@
+{
+  "name": "laravel-elixir-handlebars",
+  "version": "1.0.0",
+  "description": "Laravel Elixir Handlebars Extension",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-wrap": "^0.11.0",
+    "handlebars": "^3.0.3",
+    "gulp-notify": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "handlebars",
+    "gulp"
+  ],
+  "author": "Robarov",
+  "license": "MIT"
+}
