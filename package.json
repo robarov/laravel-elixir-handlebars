@@ -8,7 +8,7 @@
     "gulp-declare": "^0.3.0",
     "gulp-handlebars": "^4.0.0",
     "gulp-wrap": "^0.11.0",
-    "handlebars": "^3.0.3",
+    "handlebars": "^4.5.1",
     "gulp-notify": "^2.2.0"
   },
   "devDependencies": {},
